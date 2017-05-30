@@ -140,6 +140,6 @@ function update(url, method, data){
 
 // Resolve promise for property and return expectation
 function assert(result, prop) {
-    return expect(result).to.eventally.have.deep.property(prop)
+    return expect(result).to.eventually.have.deep.property(prop)
 }
 
