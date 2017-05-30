@@ -7,7 +7,6 @@
   "author": "<aw.amberaw@yandex.com>",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.5.0",
     "chai": "^4.0.0",
     "chai-as-promised": "^6.0.0",
     "mocha": "^3.4.2",
